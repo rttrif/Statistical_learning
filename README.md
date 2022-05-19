@@ -1,5 +1,9 @@
-# Statistica_learning
-Learning Static Learning
+# СТАТИСТИЧЕСКОЕ ОБУЧЕНИЕ 
+
+Данный репозиторий содержи мои конспекты книг «Введение в статистическое обучение» и «Основы статистического обучения» и решение практических заданий на `R`, `Python` и `Matlab`.
+
+---
+
 
 
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
